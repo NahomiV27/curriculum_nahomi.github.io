@@ -1,0 +1,117 @@
+.header{
+display:flex;
+justify-content:center;
+align-intems:center;
+}
+
+.navbar{
+display: flex;
+align-items:center;
+justify-content:center;
+}
+
+.header{
+height: 75px;
+background: url('pagina web/fondo.jpg')no-repeat center top;
+background-size:cover;
+}
+
+.navbar{
+height: 63px;
+background: #212121;
+border-bottom: 1px dashed #d6e199;
+}
+
+.navbar a {
+padding: 0 20px;
+color:#fff;
+text-decoration:none;
+text-transform: uppercase;
+front:20px;
+}
+
+.title{
+margin-bottom: 30px;
+front: 30dpx;
+text-transform: uppercase;
+}
+
+p {
+margin-bottom:30px;
+}
+
+.btn{
+display: inline-black;
+padding: 10px 30px;
+border: 2px solid #fff;
+color: #fff;
+text-decoration:none;
+text-align: center;
+}
+
+.content{
+padding:40px;
+}
+
+.inicio{
+background:#283747;
+color:#fff;
+}
+
+
+
+.inicio p{
+max-width: 1050px;
+margin: 0 auto;
+}
+
+.perfil{
+background: #EAECEE ;
+color: # #17202a ;
+}
+
+.perfil p{
+max-width: 1050px;
+margin: 0 auto;
+}
+
+.experiencia{
+background: #283747;
+color:#fff;
+}
+
+.experiencia p{
+max-width: 1050px;
+margin: 0 auto;
+}
+
+.referencia{
+background: #EAECEE ;
+color:# #17202a ;
+}
+
+.referencia p{
+max-width: 1050px;
+margin: 0 auto;
+}
+
+.video {
+background: #283747;
+color:#fff;
+}
+.video p{
+max-width: 500px;
+margin: 0 auto;
+}
+
+.contacto {
+background: #566573 no-repeat center top;
+color:#fff;
+text-aling:left;
+background-size:cover;
+}
+.contacto p{
+max-width: 980px;
+margin: 0 auto;
+}
+
